@@ -1,0 +1,7 @@
+LIBRARY	"DebugTest"
+DESCRIPTION  'ZnvDsSdk Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+    add @1
+
